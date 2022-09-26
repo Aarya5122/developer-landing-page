@@ -1,0 +1,70 @@
+@media only screen and (max-width: 1024px){
+    .nav-items{
+        width: 50vw;
+    }
+    .header-text h2,p{
+        width: 50vw;
+    }
+    .companies{
+        width: 50vw;
+    }
+    .cards{
+        width: 100vw;
+        flex-wrap: wrap;
+
+    }
+    .card, .card-body{
+        width: 18vw;
+        height: 28vh;
+    }
+    .blog-cards.flex{
+        flex-direction: column;
+    }
+    .blog-card{
+        width: 80vw;
+        height: 30vh;
+    }
+    .blog-image>img{
+        height: 30vh;
+      }
+    .blog-card:nth-child(2){
+        margin-left: 0vw;
+    }
+    .blog-content{
+        width: 25vw;
+    }
+    .faq-section{
+        height: 33vh;
+        padding-right: 0px;
+
+    }
+    .faq-content{
+        width: 40vw;
+    }
+    .faq-image{
+        width: 40vw;
+        height: 33vh;
+    }
+    .faq-image>img{
+        width: 100%;
+    }
+    form{
+        width: 40vw;
+    }
+    form>input{
+        width: 26vw;
+    }
+    .list{
+        width: 36vw;
+    }
+    .footer-logos{
+        width: 40px;
+    }
+    .footer-right-logos{
+        width: 20vw;
+    }
+      
+    .logos-list{
+        width: 20vw;
+    }
+}

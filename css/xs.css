@@ -1,0 +1,81 @@
+@media only screen and (max-width: 480px){
+    .header-image{
+        width: 80vw;
+    }
+    .companies{
+        font-size: 11px;
+    }
+    .api{
+        margin: 0px;
+        margin-top: 8px;
+    }
+    .cards{
+        width: auto;
+    }
+    .card{
+        width: 40vw;
+        height: auto ;
+    }
+    .card-body{
+        width: auto;
+    }
+    .blog-card.flex{
+        width: 75vw;
+    }
+    .blog-image>img{
+        width:75vw;
+        height: 34vh;
+    }
+    .faq-section.flex{
+        flex-direction: column-reverse;
+        padding: 0px;
+        border-radius: 140px 0px 0px 0px;
+    }
+    .faq-content,.faq-image{
+        width: 90vw;
+        height: auto;
+    }
+    .faq-content{
+        padding: 16px 0px;
+    }
+    .faq-image{
+        width: 98vw;
+    }
+    .download-section.flex{
+        height: auto;
+        flex-direction: column;
+        padding: 20px 0px;
+    }
+    .download-content>h1{
+        font-size: 24px;
+    }
+    .download-content>h1>span{
+        font-size: 18px;
+    }
+    form{
+        width: 93vw;
+        margin: 8px 0px;
+    }
+    form>input{
+        width: 60vw;
+    }
+    .footer-section.flex{
+        height: auto;
+        flex-direction: column;
+        padding: 16px 0px;
+    }
+    .list.flex{
+        width: auto;
+        flex-direction: column;
+        gap: 8px;
+
+    }
+    .logos-list.flex {
+        flex-direction: column;
+        gap: 8px;
+    }
+    .footer-right-logos{
+        gap: 16px;
+        margin-top: 8px;
+    }
+}
