@@ -1,8 +1,8 @@
 # DEVELOPER LANDING PAGE PREVIEW
 
-[Web-view.webm](https://user-images.githubusercontent.com/72256055/192129304-6e0ba6a5-f788-4e5a-88e2-e1963cd49b40.webm)
+[developer-web.webm](https://user-images.githubusercontent.com/72256055/192185836-d049be55-2ad4-45be-9202-336d4aadf90c.webm)
 
-[Mobile-view.webm](https://user-images.githubusercontent.com/72256055/192129307-36e75328-02d3-4e38-9ac5-69b3941d301d.webm)
+[developer-mob.webm](https://user-images.githubusercontent.com/72256055/192185848-ef1cc2fb-fbce-46c9-b411-ff380e9f108d.webm)
 
 # DEVELOPER LANDING PAGE CLONE
 
